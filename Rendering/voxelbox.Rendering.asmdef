@@ -1,0 +1,16 @@
+{
+    "name": "voxelbox.Rendering",
+    "rootNamespace": "VoxelBox",
+    "references": [
+        "Unity.RenderPipelines.Core.Runtime",
+        "_voxelbox_vendor.PlayerLoopInterface"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "noEngineReferences": false
+}
